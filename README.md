@@ -220,4 +220,4 @@ Dungeonborne is offered as a complete free version with all features and updates
 Don't miss out on the adventure! **Download Dungeonborne now and embark on your dungeon crawling journey!**
 
 ---
-**Last updated:** 2026-09-17 00:06:02 UTC
+**Last updated:** 2026-09-17 05:45:32 UTC
